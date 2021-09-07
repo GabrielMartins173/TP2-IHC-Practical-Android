@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">TP2-IHC</string>
+    <string name="atividade_1">Atividade 1</string>
+    <string name="atividade_2">Atividade 2</string>
+    <string name="atividade_3">Atividade 3</string>
+    <string name="atividade_4">Atividade 4</string>
+    <string name="atividade_5">Atividade 5</string>
+    <string name="atividade_6">Atividade 6</string>
+    <string name="please_select_what_activity_you_would_like_to_see">Please select what activity you would like to see.</string>
+    <string name="activity_1">Activity 1</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="activity_3">Activity 3</string>
+    <string name="activity_4">Activity 4</string>
+    <string name="activity_5">Activity 5</string>
+    <string name="activity_6">Activity 6</string>
+    <string name="please_select_what_activity_you_would_like_to_see_2">Please Select What Activity You Would Like To See</string>
+    <string name="insert_the_first_number">Insert The First Number</string>
 </resources>
