@@ -7,16 +7,17 @@
     tools:context=".Activity3">
 
     <TextView
-        android:id="@+id/textView5"
+        android:id="@+id/titleActivity3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="173dp"
-        android:layout_marginTop="75dp"
-        android:layout_marginEnd="180dp"
-        android:layout_marginBottom="637dp"
-        android:text="TextView"
+        android:layout_marginStart="175dp"
+        android:layout_marginTop="150dp"
+        android:layout_marginEnd="175dp"
+        android:layout_marginBottom="600dp"
+        android:text="@string/activity_3"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
