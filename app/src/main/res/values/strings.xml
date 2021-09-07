@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TP2-IHC</string>
+    <string name="app_name">TP2-IHC-Gabriel-Martins</string>
     <string name="atividade_1">Atividade 1</string>
     <string name="atividade_2">Atividade 2</string>
     <string name="atividade_3">Atividade 3</string>
@@ -22,4 +22,5 @@
     <string name="insert_the_second_number">Insert The Second Number</string>
     <string name="second_screen">Second Screen</string>
     <string name="great_change_at_one_of_the_axis">Great Change At One Of The Axis</string>
+    <string name="gps">GPS</string>
 </resources>
