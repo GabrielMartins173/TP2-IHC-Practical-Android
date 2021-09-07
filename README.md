@@ -1,4 +1,4 @@
-# TP2-IHC-Practical-Android
+# TP2-IHC-Android-Practice
 
 This is a practical activity for the discipline Interaction Human-Computer of Federal University of Rio Grande do Sul. 
 
