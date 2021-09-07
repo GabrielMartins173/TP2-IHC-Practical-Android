@@ -15,4 +15,9 @@
     <string name="activity_6">Activity 6</string>
     <string name="please_select_what_activity_you_would_like_to_see_2">Please Select What Activity You Would Like To See</string>
     <string name="insert_the_first_number">Insert The First Number</string>
+    <string name="insert_the_second_value">Insert The Second Value</string>
+    <string name="calculate">Calculate</string>
+    <string name="textview">TextView</string>
+    <string name="result">RESULT</string>
+    <string name="insert_the_second_number">Insert The Second Number</string>
 </resources>
